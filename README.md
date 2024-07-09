@@ -1,13 +1,12 @@
-Find this repository on [Github](https://github.com/thomascamminady/alltime_athletics_analysis) or check out the [documentation](https://thomascamminady.github.io/alltime_athletics_analysis).
+# Alltime Atheltics Analysis
 
+Uses data from https://github.com/thomascamminady/alltime_athletics_python.
 
-## Development
-
-Set up the full project by running `make`.
+Original data from http://www.alltime-athletics.com by Peter Larsson.
 
 ## Documentation
-Go to `Settings->Pages` and set `Source` (under `Build and deployment`) to `Github Actions`.
 
+Find this repository on [Github](https://github.com/thomascamminady/alltime_athletics_analysis) or check out the [documentation](https://thomascamminady.github.io/alltime_athletics_analysis).
 
 ## Credits
 
