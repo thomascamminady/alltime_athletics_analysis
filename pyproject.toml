@@ -18,7 +18,7 @@ nbconvert = "^7.16.4"
 
 
 [tool.poetry.group.dev.dependencies]
-ruff = "^0.5.0"
+ruff = "^0.6.4"
 mypy = "^1.10.1"
 isort = "^5.13.2"
 pyclean = "^3.0.0"
